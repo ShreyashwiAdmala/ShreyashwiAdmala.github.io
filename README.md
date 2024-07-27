@@ -1,10 +1,10 @@
-# Shreyashwi's Data Science Portfolio
-
-Welcome to my data science portfolio! Here, you will find a collection of my projects and skills.
-
 ## About Me
 
-I'm a curious Data Scientist with a knack for uncovering insights and solving problems with data! My toolbox includes Python, SQL, Power BI, Pandas, PyTorch, and more. Plus, I'm an AWS Certified Solutions Architect Associate, which means I can navigate the cloud like a pro. 
+Hi there! I'm a curious Data Scientist with a knack for uncovering insights and solving problems with data! My journey has taken me through exciting projects and hands-on experiences!
+
+My toolbox includes:
+
+Python, SQL, Power BI, Pandas, PyTorch, and more. Plus, I'm an AWS Certified Solutions Architect Associate, which means I can navigate the cloud like a pro. 
 
 - **LinkedIn**: [Shreyashwi Admala](https://www.linkedin.com/in/shreyashwi/)
 - **GitHub**: [Shreyashwi Admala](https://github.com/ShreyashwiAdmala)
