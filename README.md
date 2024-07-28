@@ -9,6 +9,16 @@ Python, SQL, Power BI, Pandas, PyTorch, and more. Plus, I'm an AWS Certified Sol
 - **LinkedIn**: [Shreyashwi Admala](https://www.linkedin.com/in/shreyashwi/)
 - **GitHub**: [Shreyashwi Admala](https://github.com/ShreyashwiAdmala)
 
+## Experience
+
+### Undergraduate Research Assitnat (@IITH)
+
+As a Research Assistant, I investigated the vulnerability of Federated Learning (FL) systems to adversarial attacks. My focus was on the susceptibility of FL models to poisoning by malicious participants who manipulate their local training data within a dataset of 50,000 samples. Using PyTorch, I executed label alteration attacks on the Fashion-MNIST dataset, involving 50 participants and a central aggregator. Adhering to rigorous experimental protocols, I analyzed attack timings and the impact on model accuracy across 200 training rounds. The study demonstrated a significant 50% decrease in global model accuracy due to label flipping attacks, underscoring the critical need for robust defense mechanisms. I documented these findings with meticulous report writing and effective communication, showcasing my attention to detail and teamwork skills.
+
+### Data Science Intern (@Dell Technologies)
+
+As a Data Science Intern, I conducted data manipulation and statistical analysis on quality internal summary dashboards, delivering actionable insights that improved KPIs such as Average Handling Time (AHT), Velocity, and SLA by 15%. I automated the frontend of the capacity planning tool by integrating various demand and capacity filters and seamlessly connected Python output files from time series analysis with the frontend, saving over 60 hours per quarter. Additionally, I developed a user-friendly, error-free UI design, performed data transformation, and wrote complex DAX queries in Power BI, reducing filter response times by 30% and enhancing data processing efficiency.
+
 ## Projects
 
 ### Project 1: Sentiment Analysis of Movie Reviews
