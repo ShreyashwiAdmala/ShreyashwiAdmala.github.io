@@ -11,7 +11,7 @@ Python, SQL, Power BI, Pandas, PyTorch, and more. Plus, I'm an AWS Certified Sol
 
 ## Experience
 
-### Undergraduate Research Assitnat (@IITH)
+### Undergraduate Research Assistant (@IITH)
 
 As a Research Assistant, I investigated the vulnerability of Federated Learning (FL) systems to adversarial attacks. My focus was on the susceptibility of FL models to poisoning by malicious participants who manipulate their local training data within a dataset of 50,000 samples. Using PyTorch, I executed label alteration attacks on the Fashion-MNIST dataset, involving 50 participants and a central aggregator. Adhering to rigorous experimental protocols, I analyzed attack timings and the impact on model accuracy across 200 training rounds. The study demonstrated a significant 50% decrease in global model accuracy due to label flipping attacks, underscoring the critical need for robust defense mechanisms. I documented these findings with meticulous report writing and effective communication, showcasing my attention to detail and teamwork skills.
 
